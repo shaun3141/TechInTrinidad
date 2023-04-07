@@ -148,6 +148,7 @@ export default function Navbar(props: Props) {
                   key={item.url}
                   href={item.url}
                   target={item.openInNewTab ? "_blank" : "_self"}
+                  style={{ textDecoration: "none", color: "inherit" }}
                 >
                   <Button
                     sx={{ color: "#fff", fontFamily: ibm_plex_mono.style }}
