@@ -52,6 +52,15 @@ export default function App({ Component, pageProps }: AppProps) {
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff"></meta>
+
+        <meta property="og:title" content="Tech in Trinidad" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.TechInTrinidad.com" />
+        <meta
+          property="og:image"
+          content="https://www.techintrinidad.com/tech_in_tt_logo.png"
+        />
+
         <title>Tech in Trinidad</title>
       </Head>
       <ThemeProvider theme={theme}>

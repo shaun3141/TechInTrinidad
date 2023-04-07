@@ -27,7 +27,11 @@ export default function Home() {
           </Typography>
           <br />
           <br />
-          <Link href="https://airtable.com/shrff0sxgpa8Wz4Hy" target="_blank">
+          <Link
+            href="https://airtable.com/shrff0sxgpa8Wz4Hy"
+            target="_blank"
+            style={{ color: "inherit", textDecoration: "none" }}
+          >
             <Button variant="contained" endIcon={<LaunchIcon />}>
               Add your Name
             </Button>
