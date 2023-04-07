@@ -36,6 +36,16 @@ export default function Home() {
               Add your Name
             </Button>
           </Link>
+          <Box height={10} />
+          <Link
+            href="https://chat.whatsapp.com/G99KtIdEP4i4MMOzLU4xV8"
+            target="_blank"
+            style={{ color: "inherit", textDecoration: "none" }}
+          >
+            <Button variant="contained" endIcon={<LaunchIcon />}>
+              Join us on WhatsApp
+            </Button>
+          </Link>
         </Paper>
       </Grid>
       <Grid xs={12} md={8}>

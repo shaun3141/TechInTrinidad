@@ -56,6 +56,11 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta property="og:title" content="Tech in Trinidad" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.TechInTrinidad.com" />
+        <meta property="og:site_name" content="Tech in Trinidad" />
+        <meta
+          property="og:description"
+          content="Creating x Elevating Trinidad's Tech Community"
+        />
         <meta
           property="og:image"
           content="https://www.techintrinidad.com/tech_in_tt_logo.png"
