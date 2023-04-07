@@ -15,7 +15,7 @@ export default function Home() {
           <br />
           <iframe
             style={{ width: "100%", height: "600px", border: "none" }}
-            src="https://airtable.com/shrZVjgNWpuAre43x"
+            src="https://airtable.com/embed/shrZVjgNWpuAre43x"
           ></iframe>
         </Paper>
       </Grid>
