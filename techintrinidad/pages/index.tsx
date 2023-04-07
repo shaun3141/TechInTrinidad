@@ -6,7 +6,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
-      <Grid xs={12} md={3}>
+      <Grid xs={12} md={4}>
         <Paper sx={{ padding: "10px" }}>
           <Typography variant="h5">Mission</Typography>
           <Typography sx={{}}>
@@ -18,7 +18,7 @@ export default function Home() {
           <br />
           <Typography variant="h6">Join Us</Typography>
           <Typography>
-            Joining the Tech in Trinidad Directory is free!
+            Joining the <b>Tech in Trinidad Directory</b> is free!
             <br />
             <br />
             Joining allows your name and interests to be discovered by others
@@ -38,7 +38,7 @@ export default function Home() {
           </Link>
         </Paper>
       </Grid>
-      <Grid xs={12} md={9}>
+      <Grid xs={12} md={8}>
         <Paper sx={{ padding: "10px" }}>
           <h3>Directory</h3>
           <Typography sx={{ fontStyle: "italic" }}>
