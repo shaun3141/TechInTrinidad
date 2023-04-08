@@ -2,13 +2,13 @@
 
 Hey there :wave: 
 
-This is the source code powering [https://www.techintrinidad.com](www.TechInTrinidad.com)
+This is the source code powering [www.TechInTrinidad.com](https://www.techintrinidad.com)
 
 You can see the exact code and files that are used on the website, and if you'd like to improve it, I'd welcome that.
 
 ## How it Works
 
-This website follows the standard setup and best practices of the popular web framework, [https://nextjs.org/](next.js)
+This website follows the standard setup and best practices of the popular web framework, [next.js](https://nextjs.org/)
 
 There is a `readme.md` file in the `techintrinidad` folder for running the website locally.
 
