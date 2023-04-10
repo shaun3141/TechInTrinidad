@@ -50,9 +50,9 @@ export default function Home() {
             We retain your personal information indefinitely, unless you request
             to modify or delete your data. To request modification or deletion
             of your data, please contact us at&nbsp;
-            <a href="mailto:techintrinidad@gmail.com">
+            <Link href="mailto:techintrinidad@gmail.com">
               techintrinidad@gmail.com
-            </a>
+            </Link>
             .
           </Typography>
           <br />
@@ -65,9 +65,9 @@ export default function Home() {
           <Typography>
             You have the right to access, modify, or delete your personal
             information. To exercise these rights, please contact us at&nbsp;
-            <a href="mailto:techintrinidad@gmail.com">
+            <Link href="mailto:techintrinidad@gmail.com">
               techintrinidad@gmail.com
-            </a>
+            </Link>
             .
           </Typography>
           <br />
@@ -76,9 +76,9 @@ export default function Home() {
             We do not knowingly collect personal information from minors. If you
             are a parent or guardian and believe that your child has provided us
             with personal information, please contact us at&nbsp;
-            <a href="mailto:techintrinidad@gmail.com">
+            <Link href="mailto:techintrinidad@gmail.com">
               techintrinidad@gmail.com
-            </a>
+            </Link>
             .
           </Typography>
           <Typography>so we can take appropriate action.</Typography>
@@ -95,9 +95,9 @@ export default function Home() {
             European Union or California, you have additional rights under these
             regulations. To learn more or exercise your rights, please contact
             us at&nbsp;
-            <a href="mailto:techintrinidad@gmail.com">
+            <Link href="mailto:techintrinidad@gmail.com">
               techintrinidad@gmail.com
-            </a>
+            </Link>
             .
           </Typography>
           <br />

@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 import { AppBar, Toolbar, Typography } from "@mui/material";
 import { IBM_Plex_Mono } from "next/font/google";
 const ibm_plex_mono = IBM_Plex_Mono({
@@ -15,12 +17,12 @@ const Footer = () => {
           sx={{ fontFamily: ibm_plex_mono }}
         >
           Tech in Trinidad | ©{new Date().getFullYear()} |{" "}
-          <a
+          <Link
             href="/privacy"
             style={{ textDecoration: "inherit", color: "inherit" }}
           >
             Privacy Policy
-          </a>
+          </Link>
         </Typography>
       </Toolbar>
     </AppBar>
