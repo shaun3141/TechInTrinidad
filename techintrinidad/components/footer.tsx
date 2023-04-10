@@ -14,7 +14,13 @@ const Footer = () => {
           color="inherit"
           sx={{ fontFamily: ibm_plex_mono }}
         >
-          Tech in Trinidad | ©{new Date().getFullYear()}
+          Tech in Trinidad | ©{new Date().getFullYear()} |{" "}
+          <a
+            href="/privacy"
+            style={{ textDecoration: "inherit", color: "inherit" }}
+          >
+            Privacy Policy
+          </a>
         </Typography>
       </Toolbar>
     </AppBar>
